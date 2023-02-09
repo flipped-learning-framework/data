@@ -4,6 +4,6 @@ We provide data of student performances (course report.csv), polls (in-class pol
 
 Due to privacy concerns, we have removed all personal infomartion such as user ID and username.
 
-## Data for the unfolded RNN model:
+## Data for the evaluation of the unfolded RNN model:
 
 Files: evaluation data of 2019.csv and evaluation data of 2020.csv
