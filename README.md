@@ -8,19 +8,15 @@ Due to privacy concerns, we have removed all personal infomartion such as user I
 
 Files: evaluation data of 2019.csv and evaluation data of 2020.csv.
 
-The format of the csv file is:
+The format of the csv files is:
 * probID: problem ID
 * sID: student ID
 * probAns: correct problem answer
 * answer: student's answer
-* correct: true means student answer the question correctly, false means student answer the question incorrectly.
+* correct: true means student answer the question correctly, false means student answer the question incorrectly
 * answerat: student's answer time
 * publishat: the problem publish time
-* question type:
--3 this is a hard pre-class quiz
--2 this is a easy pre-class quiz
--1 this is a pre-class quiz
+* question type: -3 this is a hard pre-class quiz; -2 this is a easy pre-class quiz; and -1 this is a pre-class quiz
 * positive numbers: this is a time limited in-class quiz
-
 
 in comma-separated columns.
