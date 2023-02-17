@@ -13,7 +13,7 @@ The format of the csv files is:
 * sID: student ID
 * probAns: correct problem answer
 * answer: student's answer
-* correct: true means student answer the question correctly, false means student answer the question incorrectly
+* correct: true means student answered the question correctly, false means student answered the question incorrectly
 * answerat: student's answer time
 * publishat: the problem publish time
 * question type: -3 this is a hard pre-class quiz; -2 this is a easy pre-class quiz; and -1 this is a pre-class quiz
